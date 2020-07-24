@@ -3,7 +3,7 @@ import data from "./data.json";
 import Products from "./components/products.js";
 import Filter from "./components/filter.js";
 import Cart from "./components/cart";
-
+// new feature added
 class App extends Component {
   constructor() {
     super();
