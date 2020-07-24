@@ -4,6 +4,7 @@ import Products from "./components/products.js";
 import Filter from "./components/filter.js";
 import Cart from "./components/cart";
 // new feature added
+// feature in dev
 class App extends Component {
   constructor() {
     super();
